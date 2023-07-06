@@ -4,7 +4,7 @@ This repo contains a diagram to hard wire a GameCube WaveBird controller to the 
 
 Why would you want to do that? To hide the receiver inside the console
 
-![](fig1.png)
+![](fig.png)
 
 # Install
 
