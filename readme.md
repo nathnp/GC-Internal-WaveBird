@@ -23,3 +23,5 @@ Yes, just plug the wired controller into the GC like normal.
 ## Will using a wired controller hurt my GC?
 
 No, using both a wired controller and a WaveBird at the same time will be similar to using two WaveBirds on the same channel. 
+
+Note: Some games may not like hot plugging a wired controller. 
